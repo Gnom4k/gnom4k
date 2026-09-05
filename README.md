@@ -15,6 +15,8 @@
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
 <!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=28&animation=flash&reverseBackground=true&link=https%3A%2F%2Fdiscord.com%2Fusers%2F698027263639289868)](https://discord.com/users/698027263639289868)
+[![steam](https://www.readmecodegen.com/api/social-icon?name=steam&size=28&animation=flash&reverseBackground=true&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FGnom4k3080ti%2F)](https://steamcommunity.com/id/Gnom4k3080ti/)
+
+
 </div>
