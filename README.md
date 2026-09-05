@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Музыка • Игры • Аниме • Код • Арт
+Music • Games • Anime • Code • Art
 
 ## 🚀 Projects
 
